@@ -15,5 +15,5 @@ Minecraft replaces the default model with the matching override.
 
 Using floats allows for more precision and multiple model options than the old integer-only system.
 
-###### Full Correct Command
+#### Full Correct Command
 `/give @s minecraft:paper[minecraft:custom_model_data={floats:[1.0f]}]`
