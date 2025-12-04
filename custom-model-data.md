@@ -1,6 +1,3 @@
----
-icon: hourglass-clock
----
 
 # Custom Model Data
 
